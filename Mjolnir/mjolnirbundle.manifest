@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3644348784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06d7a5d34737bde75c3957ccc0a042b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3570940bd320f8d5dce6bb937407565c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c5340414e02a034f9fd67074ee3ba84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6d49942e596db2439ff07902dd76614, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 038cbe648a0000a43806e3ddddb1027f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 198992e4417535646b21cc8589011def, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16b3b5473e8a9004e9000281714a5882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d97085b74a2c84044bbefcd580f4de10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f7ce06848b628e4e94e615a7e453b8a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CustomItems/Mjolnir.prefab
+Dependencies: []
